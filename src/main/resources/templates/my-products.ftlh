@@ -15,7 +15,7 @@
                        id="productName" name="title">
             </div>
             <div class="form-group">
-                <label for="price">Цена товару</label>
+                <label for="price">Ціна товару</label>
                 <div class="input-group mb-3">
                     <input type="number" required class="form-control" id="price" name="price">
                     <div class="input-group-append">
@@ -24,7 +24,7 @@
                 </div>
             </div>
             <div class="form-group">
-                <label for="searchCity">Город</label>
+                <label for="searchCity">Місто</label>
                 <select id="searchCity" required name="city" class="form-control">
                     <option value="">Місто не обрано</option>
 
