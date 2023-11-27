@@ -1,4 +1,4 @@
-# Online store on Spring Boot
+# Online store on Spring Boot 2.0.0
 
 ## About the project
 
