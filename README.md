@@ -21,12 +21,14 @@ Additional functionality is available for administrators, including managing use
 - **Object-oriented programming (OOP)**
 - **Spring Boot**
 - **PostgreSQL**
+- **CSS**
 - ...
 
 
 ## Education and development
 
 The project was developed using educational resources and video courses on Spring Boot.
+Author - https://github.com/artmcoder
 
 
 ## Launch of the project
